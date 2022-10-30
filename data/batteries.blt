@@ -32,6 +32,7 @@ description: This collection contains different sorts of batteries
 author: Johannes Reinhardt <jreinhardt@ist-dein-freund.de>
 license: MIT <http://opensource.org/licenses/MIT>
 blt-version: 0.4
+
 classes:
 - id: round_battery
   names:

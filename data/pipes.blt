@@ -32,6 +32,7 @@ description: Metric and imperial pipes
 author: Johannes Reinhardt <jreinhardt@ist-dein-freund.de>
 license: MIT <http://opensource.org/licenses/MIT>
 blt-version: 0.4
+
 classes:
   - id: genericpipe
     names:

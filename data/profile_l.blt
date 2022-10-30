@@ -18,12 +18,14 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA *
 # ******************************************************************************
 
-author: Bernd Hahnebach <bernd@bimstatik.org>
-blt-version: 0.4
-description: Various hotrolled L profiles
+---
 id: profile_l
-license: LGPL 2.1+ <http://www.gnu.org/licenses/lgpl-2.1>
 name: Profiles L
+description: Various hotrolled L profiles
+author: Bernd Hahnebach <bernd@bimstatik.org>
+license: LGPL 2.1+ <http://www.gnu.org/licenses/lgpl-2.1>
+blt-version: 0.4
+
 classes:
 - id: lbeam_bluescope_equal
   names:

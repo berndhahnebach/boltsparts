@@ -18,14 +18,16 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA *
 # ******************************************************************************
 
+---
+id: profile_hollow
+name: Profiles Hollow
+description: Hot finished structural hollow profiles
 author:
 - Bernd Hahnebach <bernd@bimstatik.org>
 - Johannes Reinhardt <jreinhardt@ist-dein-freund.de>
-blt-version: 0.4
-description: Hot finished structural hollow profiles
-id: profile_hollow
 license: LGPL 2.1+ <http://www.gnu.org/licenses/lgpl-2.1>
-name: Profiles Hollow
+blt-version: 0.4
+
 classes:
 - id: hollow_generic_circle
   names:

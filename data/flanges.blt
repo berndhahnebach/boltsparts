@@ -35,6 +35,7 @@ description: Various standard flanges
 author: Fabrizio Pollastri <f.pollastri@inrim.it>
 license: MIT <http://opensource.org/licenses/MIT>
 blt-version: 0.4
+
 classes:
   - id: plateflange
     standards:

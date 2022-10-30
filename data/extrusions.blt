@@ -25,6 +25,7 @@ description: Various small profiles and extrusions
 author: Johannes Reinhardt <jreinhardt@ist-dein-freund.de>
 license: LGPL 2.1+ <http://www.gnu.org/licenses/lgpl-2.1>
 blt-version: 0.4
+
 classes:
   - id: tslot20x20
     names:
